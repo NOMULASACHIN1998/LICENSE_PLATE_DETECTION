@@ -1,4 +1,3 @@
-Yolo Automartic license plate detection model.
+Yolo Automatic license plate detection model.
 
 
-# How to utilise this. 
